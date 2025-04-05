@@ -55,3 +55,4 @@ function colorLetter() {
 // function animating page (apply classes to target to trigger, remove added class/resolve promise on end)
 
 // add a style.css file and a wordbank.js file
+// add an index.html-- link css and libraries and execute script.js, display digital keyboard for game
