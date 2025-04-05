@@ -53,3 +53,5 @@ function colorLetter() {
 // if not a key, exit; else event corresponding to user-selected key
 
 // function animating page (apply classes to target to trigger, remove added class/resolve promise on end)
+
+// add a style.css file and a wordbank.js file
